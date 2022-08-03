@@ -1,0 +1,4 @@
+rumps~=0.3.0
+certifi~=2022.6.15
+pycoingecko~=2.2.0
+setuptools~=60.2.0
