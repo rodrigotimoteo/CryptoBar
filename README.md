@@ -1,5 +1,5 @@
 # CryptoBar
-##A Quick and Simple MacOS App that display the Euro value of a Crypto Portfolio
+A Quick and Simple MacOS App that display the Euro value of a Crypto Portfolio
 
 # How to Use
 
