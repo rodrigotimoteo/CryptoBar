@@ -5,8 +5,8 @@
 
 - [X] - First Create a File With your Crypto Holding, (crypto name as in the coingecko API and amount), as such
 
-bitcoin 0.01
-ethereum 1.5
-dogecoin 1000
+   ```bitcoin 0.01``` <br /> 
+   ```ethereum 1.5``` <br />
+   ```dogecoin 1000``` <br />
 
 - [X] - Secondly Initialize the App and the Balance in Euros will appear in your Mac Menu Bar
